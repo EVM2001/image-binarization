@@ -1,0 +1,12 @@
+E:\мой ИНСТИТУТ\6 курс(магистратура)\диплом\DiplomMag\DiplomMag\bin\Debug\DiplomMag.exe.config
+E:\мой ИНСТИТУТ\6 курс(магистратура)\диплом\DiplomMag\DiplomMag\bin\Debug\DiplomMag.exe
+E:\мой ИНСТИТУТ\6 курс(магистратура)\диплом\DiplomMag\DiplomMag\bin\Debug\DiplomMag.pdb
+E:\мой ИНСТИТУТ\6 курс(магистратура)\диплом\DiplomMag\DiplomMag\obj\Debug\DiplomMag.csproj.AssemblyReference.cache
+E:\мой ИНСТИТУТ\6 курс(магистратура)\диплом\DiplomMag\DiplomMag\obj\Debug\DiplomMag.Form1.resources
+E:\мой ИНСТИТУТ\6 курс(магистратура)\диплом\DiplomMag\DiplomMag\obj\Debug\DiplomMag.Properties.Resources.resources
+E:\мой ИНСТИТУТ\6 курс(магистратура)\диплом\DiplomMag\DiplomMag\obj\Debug\DiplomMag.csproj.GenerateResource.cache
+E:\мой ИНСТИТУТ\6 курс(магистратура)\диплом\DiplomMag\DiplomMag\obj\Debug\DiplomMag.csproj.CoreCompileInputs.cache
+E:\мой ИНСТИТУТ\6 курс(магистратура)\диплом\DiplomMag\DiplomMag\obj\Debug\DiplomMag.exe
+E:\мой ИНСТИТУТ\6 курс(магистратура)\диплом\DiplomMag\DiplomMag\obj\Debug\DiplomMag.pdb
+E:\мой ИНСТИТУТ\6 курс(магистратура)\диплом\DiplomMag\DiplomMag\obj\Debug\DiplomMag.Form2.resources
+E:\мой ИНСТИТУТ\6 курс(магистратура)\диплом\DiplomMag\DiplomMag\obj\Debug\DiplomMag.Form3.resources
